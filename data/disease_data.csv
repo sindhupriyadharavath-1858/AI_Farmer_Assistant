@@ -1,0 +1,7 @@
+crop,disease,symptoms,cause,prevention
+Tomato,Early Blight,Brown spots on leaves,Fungal infection,Remove infected plant parts and maintain good airflow
+Tomato,Late Blight,Dark lesions on leaves,Fungal infection,Use healthy planting material and avoid excess moisture
+Potato,Late Blight,Dark patches on leaves,Fungal infection,Use healthy seed and manage field moisture
+Rice,Leaf Blast,Spindle shaped lesions,Fungal infection,Use suitable resistant varieties and good field management
+Rice,Bacterial Leaf Blight,Water soaked leaf lesions,Bacterial infection,Use healthy seed and proper field management
+Cotton,Bacterial Blight,Dark spots on leaves,Bacterial infection,Use healthy seed and maintain field hygiene

@@ -1,0 +1,13 @@
+crop,soil_type,temperature,humidity,rainfall,season,state
+Rice,clay,25,80,200,monsoon,Telangana
+Rice,clay,26,78,190,monsoon,Andhra Pradesh
+Wheat,loamy,20,60,100,winter,Punjab
+Wheat,loamy,21,62,110,winter,Haryana
+Cotton,black,28,55,80,kharif,Telangana
+Cotton,black,30,58,90,kharif,Maharashtra
+Maize,loamy,24,65,100,kharif,Karnataka
+Maize,loamy,25,68,110,kharif,Telangana
+Groundnut,sandy,27,60,90,kharif,Andhra Pradesh
+Groundnut,sandy,28,62,95,kharif,Telangana
+Chickpea,loamy,22,50,70,winter,Maharashtra
+Chickpea,black,23,52,75,winter,Telangana
